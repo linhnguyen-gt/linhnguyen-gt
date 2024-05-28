@@ -11,7 +11,6 @@ Developing is my passion and pleasure. It's not just a job for me it's a true vo
 </a>
 
 <br />
-<br />
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
