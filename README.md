@@ -32,6 +32,8 @@ Developing is my passion and pleasure. It's not just a job for me it's a true vo
 [![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git&link=https://github.com/linhnguyen-gt)](https://github.com/linhnguyen-gt) 
 [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=for-the-badge&logo=bitbucket&link=https://github.com/linhnguyen-gt)](https://github.com/linhnguyen-gt)
 
+<br />
+
 ---
 ### Github Stats
 
