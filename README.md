@@ -6,12 +6,6 @@
 
 🚀 I'm a dedicated mobile developer with a deep passion not just for coding but for the entire development process. Driven by a mission to create impactful solutions, I constantly leverage the latest technologies to elevate the quality and effectiveness of my projects.
 
-👥 Team collaboration is at the heart of my approach. I thrive in dynamic team settings, contributing positively and helping colleagues enhance our collective output. This cooperative spirit not only speeds up project timelines but also enriches the creative process.
-
-📱 As a technology enthusiast, I'm always on the lookout for new challenges and opportunities to push the boundaries in mobile software development. My goal is to deliver exceptional and innovative applications that set new standards in usability and performance.
-
-Feel free to explore my repositories to see the technologies I work with and the projects I'm passionate about!
-
 <a href="https://www.linkedin.com/in/linh-nguyen-3277801ab/">
   <img align="left" alt="Linh Nguyen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
