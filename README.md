@@ -105,12 +105,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/linhnguyen-gt">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=linhnguyen-gt&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true&radius=8&theme=react-dark" alt="Linh's Contribution Graph" width="100%">
-  </a>
-</div>
-
 <br>
 
 <div align="center">
