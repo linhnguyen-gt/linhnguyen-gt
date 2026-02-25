@@ -168,17 +168,17 @@ development workflows
 
   <div align="center">
     <a href="https://github.com/linhnguyen-gt#gh-dark-mode-only">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=linhnguyen-gt&show_icons=true&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&text_bold=false&count_private=true" alt="GitHub Stats" />
+      <img height="180" src="https://github-readme-stats-steel-phi-66.vercel.app/api?username=linhnguyen-gt&show_icons=true&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&text_bold=false&count_private=true" alt="GitHub Stats" />
     </a>
     <a href="https://github.com/linhnguyen-gt#gh-light-mode-only">
-      <img height="180" src="https://github-readme-stats.vercel.app/api?username=linhnguyen-gt&show_icons=true&title_color=7c3aed&icon_color=7c3aed&text_color=475569&bg_color=ffffff&hide_border=true&text_bold=false&count_private=true" alt="GitHub Stats" />
+      <img height="180" src="https://github-readme-stats-steel-phi-66.vercel.app/api?username=linhnguyen-gt&show_icons=true&title_color=7c3aed&icon_color=7c3aed&text_color=475569&bg_color=ffffff&hide_border=true&text_bold=false&count_private=true" alt="GitHub Stats" />
     </a>
     &nbsp;
     <a href="https://github.com/linhnguyen-gt#gh-dark-mode-only">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhnguyen-gt&layout=compact&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=true&text_bold=false&count_private=true" alt="Top Languages" />
+      <img height="180" src="https://github-readme-stats-steel-phi-66.vercel.app/api/top-langs/?username=linhnguyen-gt&layout=compact&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=true&text_bold=false&count_private=true" alt="Top Languages" />
     </a>
     <a href="https://github.com/linhnguyen-gt#gh-light-mode-only">
-      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhnguyen-gt&layout=compact&title_color=7c3aed&text_color=475569&bg_color=ffffff&hide_border=true&text_bold=false&count_private=true" alt="Top Languages" />
+      <img height="180" src="https://github-readme-stats-steel-phi-66.vercel.app/api/top-langs/?username=linhnguyen-gt&layout=compact&title_color=7c3aed&text_color=475569&bg_color=ffffff&hide_border=true&text_bold=false&count_private=true" alt="Top Languages" />
     </a>
   </div>
 
