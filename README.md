@@ -1,123 +1,220 @@
-<h1 align="center">
-  Welcome to Linh's Digital Playground
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+<!-- Header Banner -->
+<a href="https://linhnguyen96114.vercel.app/">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
+    <img alt="Linh Nguyen | Mobile Developer" src="./assets/header-dark.svg" width="100%" />
+  </picture>
+</a>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&random=false&width=600&lines=Mobile+Developer+Extraordinaire+%F0%9F%93%B1;Code+Craftsman+%E2%9A%A1;Innovation+Seeker+%F0%9F%8C%9F" alt="Typing SVG" />
-</p>
-
+<!-- Social Links -->
 <div align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" style="border-radius: 10px;">
-</div>
-
-<h2 align="center">
-  About Me
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-</h2>
-
-<p align="center">
-  <em>
-    A passionate mobile developer crafting digital experiences with creativity and precision.
-    <br>
-    Transforming ideas into elegant, user-centric solutions.
-    <br>
-    Always learning, always growing, always coding! 🚀
-  </em>
-</p>
-
-<div align="center">
+  <a href="https://linhnguyen96114.vercel.app/">
+    <img alt="Portfolio" src="https://img.shields.io/static/v1?label=&message=Portfolio&color=7c3aed&style=flat&logo=vercel&logoColor=white&labelColor=334155" />
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/linh-nguyen-3277801ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+    <img alt="LinkedIn" src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=7c3aed&style=flat&logo=linkedin&logoColor=white&labelColor=334155" />
+  </a>&nbsp;
   <a href="mailto:linh.nguyen96114@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+    <img alt="Email" src="https://img.shields.io/static/v1?label=&message=Email&color=7c3aed&style=flat&logo=gmail&logoColor=white&labelColor=334155" />
+  </a>&nbsp;
   <a href="https://github.com/linhnguyen-gt">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img alt="GitHub" src="https://img.shields.io/static/v1?label=&message=GitHub&color=7c3aed&style=flat&logo=github&logoColor=white&labelColor=334155" />
   </a>
 </div>
 
-<br>
+<br/>
 
-<h2 align="center">
-  🛠️ Technologies & Tools
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
-</h2>
+<!-- About -->
 
-<h3 align="center">📱 Mobile Development</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI" />
-  <img src="https://img.shields.io/badge/Jetpack_Compose-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
-</p>
+## `> whoami`
 
-<h3 align="center">💻 Programming Languages</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
-</p>
+```yaml
+name: Linh Nguyen
+location: Vietnam 🇻🇳
+role: Mobile Developer
+focus:
+  - Cross-platform mobile development
+  - Clean architecture & state management
+  - Open-source tooling for mobile community
+currently:
+  - Building developer tools for React Native & Flutter
+  - Contributing to mobile open-source ecosystem
+```
 
-<h3 align="center">🗄️ Backend & Databases</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
+<!-- Tech Stack -->
 
-<h3 align="center">🛠️ Frameworks & Tools</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-</p>
+## 🛠️ Tech Stack
 
-<br>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <strong>Mobile</strong>
+    </td>
+    <td>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only">
+        <img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin&theme=dark" alt="Mobile" />
+      </a>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
+        <img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin&theme=light" alt="Mobile" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <strong>Languages</strong>
+    </td>
+    <td>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only">
+        <img src="https://skillicons.dev/icons?i=ts,js,dart,swift,kotlin&theme=dark" alt="Languages" />
+      </a>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
+        <img src="https://skillicons.dev/icons?i=ts,js,dart,swift,kotlin&theme=light" alt="Languages" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <strong>Backend</strong>
+    </td>
+    <td>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only">
+        <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,supabase&theme=dark" alt="Backend" />
+      </a>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
+        <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,supabase&theme=light" alt="Backend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <strong>Tools</strong>
+    </td>
+    <td>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only">
+        <img src="https://skillicons.dev/icons?i=nextjs,docker,git,github,gitlab,vscode&theme=dark" alt="Tools" />
+      </a>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
+        <img src="https://skillicons.dev/icons?i=nextjs,docker,git,github,gitlab,vscode&theme=light" alt="Tools" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<h2 align="center">
-  📊 GitHub Analytics
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="30">
-</h2>
+<!-- What I Do -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linhnguyen-gt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Linh's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=linhnguyen-gt&theme=tokyonight&hide_border=true&background=0D1117" alt="Linh's GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=linhnguyen-gt&theme=tokyonight&no-frame=true&row=1&column=7" alt="Linh's GitHub trophies" />
-</p>
-
-<br>
-
-<br>
-
-<br>
+## 💼 What I Do
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=linhnguyen-gt&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 📱
+
+**Mobile Development**
+
+Building polished, performant
+apps with React Native,
+Flutter, SwiftUI &
+Jetpack Compose
+
+</td>
+<td align="center" width="25%">
+
+### 🏗️
+
+**Architecture Design**
+
+Clean Architecture, BLoC,
+MVVM, Redux — scalable
+patterns that teams can
+maintain long-term
+
+</td>
+<td align="center" width="25%">
+
+### 📦
+
+**Open Source**
+
+Publishing packages &
+boilerplates for the mobile
+community on pub.dev
+& npm
+
+</td>
+<td align="center" width="25%">
+
+### ⚡
+
+**CLI Tooling**
+
+Developer tools that
+automate project setup &
+accelerate mobile
+development workflows
+
+</td>
+</tr>
+</table>
 </div>
 
-<h2 align="center">
-  Let's Connect and Create Something Amazing!
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
-</h2>
+<!-- GitHub Analytics -->
+<details open>
+  <summary><h2>📊 GitHub Analytics</h2></summary>
 
----
+  <br/>
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/linhnguyen-gt">@linhnguyen-gt</a> with 💖
-</p>
+  <div align="center">
+    <a href="https://github.com/linhnguyen-gt#gh-dark-mode-only">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=linhnguyen-gt&show_icons=true&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&bg_color=0d1117&hide_border=true&text_bold=false&count_private=true" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/linhnguyen-gt#gh-light-mode-only">
+      <img height="180" src="https://github-readme-stats.vercel.app/api?username=linhnguyen-gt&show_icons=true&title_color=7c3aed&icon_color=7c3aed&text_color=475569&bg_color=ffffff&hide_border=true&text_bold=false&count_private=true" alt="GitHub Stats" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/linhnguyen-gt#gh-dark-mode-only">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhnguyen-gt&layout=compact&title_color=a78bfa&text_color=c9d1d9&bg_color=0d1117&hide_border=true&text_bold=false&count_private=true" alt="Top Languages" />
+    </a>
+    <a href="https://github.com/linhnguyen-gt#gh-light-mode-only">
+      <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linhnguyen-gt&layout=compact&title_color=7c3aed&text_color=475569&bg_color=ffffff&hide_border=true&text_bold=false&count_private=true" alt="Top Languages" />
+    </a>
+  </div>
+
+  <br/>
+
+  <div align="center">
+    <a href="https://github.com/linhnguyen-gt#gh-dark-mode-only">
+      <img src="https://streak-stats.demolab.com?user=linhnguyen-gt&background=0d1117&border=0d1117&stroke=a78bfa&ring=7c3aed&fire=7c3aed&currStreakNum=a78bfa&sideNums=a78bfa&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&excludeDaysLabel=8b949e" alt="GitHub Streak" />
+    </a>
+    <a href="https://github.com/linhnguyen-gt#gh-light-mode-only">
+      <img src="https://streak-stats.demolab.com?user=linhnguyen-gt&background=ffffff&border=ffffff&stroke=7c3aed&ring=7c3aed&fire=7c3aed&currStreakNum=7c3aed&sideNums=7c3aed&currStreakLabel=475569&sideLabels=475569&dates=64748b&excludeDaysLabel=64748b" alt="GitHub Streak" />
+    </a>
+  </div>
+
+  <br/>
+
+</details>
+
+<!-- Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linhnguyen-gt/linhnguyen-gt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/linhnguyen-gt/linhnguyen-gt/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/linhnguyen-gt/linhnguyen-gt/output/github-snake.svg" width="100%" />
+</picture>
+
+<!-- Footer -->
+<div align="center">
+
+  <br/>
+
+  <a href="https://github.com/linhnguyen-gt">
+    <img src="https://komarev.com/ghpvc/?username=linhnguyen-gt&label=Profile+Views&color=7c3aed&style=flat&labelColor=334155" alt="Profile Views" />
+  </a>
+
+<br/><br/>
+
+<sub>Built with ❤️ by <a href="https://github.com/linhnguyen-gt">@linhnguyen-gt</a></sub>
+
+</div>
