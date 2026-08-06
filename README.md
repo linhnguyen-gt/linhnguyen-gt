@@ -3,7 +3,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg" />
-    <img alt="Linh Nguyen | Mobile Developer" src="./assets/header-dark.svg" width="100%" />
+    <img alt="Linh Nguyen | Software Engineer" src="./assets/header-dark.svg" width="100%" />
   </picture>
 </a>
 
@@ -32,14 +32,14 @@
 ```yaml
 name: Linh Nguyen
 location: Vietnam 🇻🇳
-role: Mobile Developer
+role: Software Engineer
 focus:
-  - Cross-platform mobile development
-  - Clean architecture & state management
-  - Open-source tooling for mobile community
+  - Owning features across the stack
+  - Scalable architecture & system design
+  - Developer experience & tooling
 currently:
-  - Building developer tools for React Native & Flutter
-  - Contributing to mobile open-source ecosystem
+  - Shipping full-stack products with TypeScript
+  - Contributing to the open-source ecosystem
 ```
 
 <!-- Tech Stack -->
@@ -47,19 +47,6 @@ currently:
 ## 🛠️ Tech Stack
 
 <table>
-  <tr>
-    <td align="center" width="96">
-      <strong>Mobile</strong>
-    </td>
-    <td>
-      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only">
-        <img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin&theme=dark" alt="Mobile" />
-      </a>
-      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
-        <img src="https://skillicons.dev/icons?i=react,flutter,swift,kotlin&theme=light" alt="Mobile" />
-      </a>
-    </td>
-  </tr>
   <tr>
     <td align="center" width="96">
       <strong>Languages</strong>
@@ -75,14 +62,40 @@ currently:
   </tr>
   <tr>
     <td align="center" width="96">
+      <strong>Frontend</strong>
+    </td>
+    <td>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,flutter&theme=dark" alt="Frontend" />
+      </a>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,flutter&theme=light" alt="Frontend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
       <strong>Backend</strong>
     </td>
     <td>
       <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only">
-        <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,supabase&theme=dark" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase,supabase&theme=dark" alt="Backend" />
       </a>
       <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
-        <img src="https://skillicons.dev/icons?i=nodejs,firebase,mongodb,supabase&theme=light" alt="Backend" />
+        <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,firebase,supabase&theme=light" alt="Backend" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <strong>Database</strong>
+    </td>
+    <td>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=dark" alt="Database" />
+      </a>
+      <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
+        <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=light" alt="Database" />
       </a>
     </td>
   </tr>
@@ -92,10 +105,10 @@ currently:
     </td>
     <td>
       <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-dark-mode-only">
-        <img src="https://skillicons.dev/icons?i=nextjs,docker,git,github,gitlab,vscode&theme=dark" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode&theme=dark" alt="Tools" />
       </a>
       <a href="https://github.com/linhnguyen-gt?tab=repositories&q=&type=&language=&sort=stargazers#gh-light-mode-only">
-        <img src="https://skillicons.dev/icons?i=nextjs,docker,git,github,gitlab,vscode&theme=light" alt="Tools" />
+        <img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,vscode&theme=light" alt="Tools" />
       </a>
     </td>
   </tr>
@@ -110,14 +123,14 @@ currently:
 <tr>
 <td align="center" width="25%">
 
-### 📱
+### 💻
 
-**Mobile Development**
+**Product Engineering**
 
-Building polished, performant
-apps with React Native,
-Flutter, SwiftUI &
-Jetpack Compose
+Shipping features end-to-end,
+from interface to API,
+with TypeScript across
+web and mobile
 
 </td>
 <td align="center" width="25%">
@@ -126,10 +139,10 @@ Jetpack Compose
 
 **Architecture Design**
 
-Clean Architecture, BLoC,
-MVVM, Redux — scalable
-patterns that teams can
-maintain long-term
+Clean Architecture, modular
+boundaries, state management —
+scalable patterns that teams
+can maintain long-term
 
 </td>
 <td align="center" width="25%">
@@ -139,21 +152,21 @@ maintain long-term
 **Open Source**
 
 Publishing packages &
-boilerplates for the mobile
-community on pub.dev
-& npm
+boilerplates for the
+developer community
+on npm & pub.dev
 
 </td>
 <td align="center" width="25%">
 
 ### ⚡
 
-**CLI Tooling**
+**Developer Experience**
 
-Developer tools that
-automate project setup &
-accelerate mobile
-development workflows
+CLI tooling that automates
+project setup and removes
+friction from everyday
+workflows
 
 </td>
 </tr>

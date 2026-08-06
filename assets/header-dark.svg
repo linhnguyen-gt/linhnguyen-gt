@@ -40,12 +40,12 @@
 
   <!-- Title -->
   <text x="440" y="108" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="18" font-weight="400" fill="#a78bfa" text-anchor="middle" letter-spacing="2" filter="url(#glow)">
-    MOBILE DEVELOPER
+    SOFTWARE ENGINEER
   </text>
 
   <!-- Subtitle -->
   <text x="440" y="140" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="14" font-weight="300" fill="#8b949e" text-anchor="middle" letter-spacing="1">
-    React Native · Flutter · SwiftUI · Jetpack Compose
+    Building products end-to-end, from the interface down to the schema
   </text>
 
   <!-- Bottom dots decoration -->
